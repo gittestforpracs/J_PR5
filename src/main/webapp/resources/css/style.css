@@ -1,0 +1,173 @@
+body
+{
+    background: linear-gradient(to right, #8EABC4, #93AEC6);
+    background-size: 105%;
+}
+
+button
+{
+    background: #668DAF;
+    text-decoration: none;
+    user-select: none;
+    border: none;
+    font: 16pt Trebuchet MS; /* Текст */
+    font-weight: 900;
+    color: #fff;
+}
+
+button:hover
+{
+    background-color: #7296B6;
+}
+
+header
+{
+    width: 100%;
+    background: #668DAF;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    border: #668DAF 2px solid;
+}
+
+.indexMenuButtons
+{
+    font: 24pt Trebuchet MS; /* Текст */
+	color: #fff;
+
+	list-style: none;
+	position: absolute;
+	top: 20px;
+	right: 40px;
+}
+
+.indexMenuButtonsH:hover
+{
+    background-color: #7296B6;
+}
+
+.indexFirstHello_MainTitle
+{
+    font: 36pt Trebuchet MS; /* Текст */
+    font-weight: 500;
+    color: #fff;
+
+    text-align: center;
+    vertical-align: center;
+    margin-top: 5%;
+
+    background-color: #668DAF;
+    display: grid;
+    border-radius: 5px 5px 5px 5px;
+    border: #668DAF 2px solid;
+}
+
+.indexFirstHello
+{
+    font: 16pt Trebuchet MS; /* Текст */
+    color: #fff;
+    text-align: center;
+    vertical-align: center;
+    margin-top: 5%;
+
+    background-color: #668DAF;
+    display: grid;
+    border-radius: 5px 5px 5px 5px;
+    border: #668DAF 2px solid;
+}
+
+.registrationMain
+{
+    margin-top: 5%;
+    font: 24pt Trebuchet MS; /* Текст */
+    font-weight: 900;
+    color: #fff;
+    text-align: center;
+    vertical-align: center;
+    margin-top: 5%;
+
+    display: grid;
+    background-color: #668DAF;
+    border-radius: 5px 5px 5px 5px;
+    border: #668DAF 2px solid;
+}
+
+.registrationWindow
+{
+    display: grid;
+    background-color: #668DAF;
+    border-radius: 5px 5px 5px 5px;
+    border: #668DAF 5px solid;
+    text-align: center;
+    vertical-align: center;
+
+    margin-top: 1%;
+    font: 16pt Trebuchet MS; /* Текст */
+    color: #FFF;
+}
+
+.registrationBack
+{
+    margin-top: 1%;
+    font: 16pt Trebuchet MS; /* Текст */
+    font-weight: 900;
+    color: #fff;
+    text-align: center;
+    vertical-align: center;
+
+
+    display: grid;
+    background-color: #668DAF;
+    border-radius: 5px 5px 5px 5px;
+    border: #668DAF 5px solid;
+}
+
+.registrationBack:hover
+{
+    background-color: #7296B6;
+}
+
+.title
+{
+    font: 24pt Trebuchet MS;
+    color: #fff;
+    font-weight: 900;
+
+    padding-top: 10px;
+    padding-left: 25px;
+    text-align: left;
+}
+
+.log
+{
+    position: absolute;
+	padding-top: 300px;
+	padding-left: 850px;
+}
+
+.tableAdmin
+{
+    position: absolute;
+	font: 15pt Calibri;
+	color: fff;
+	background-color: #91ADC6;
+	align: center
+}
+
+
+.username
+{
+    font: 24pt Trebuchet MS;
+	color: #FFF;
+	position: absolute;
+	top: 20px;
+	right: 950px;
+}
+
+.telo
+{
+    display: inline-block;
+    width: 33.15%;
+    background: #5A5A5A;
+    height: 800px;
+    border-radius: 10px;
+}
